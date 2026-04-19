@@ -1,0 +1,8 @@
+### 1.
+The city I found to have the highest ineffciency ratio was New Delhi with 16.92. The cables I found that serve a path from Boston to New Delhi are the Amitie followed by the Europe India Gateway (EIG). This does in part explain my result because these cables are very long and require the signal to pass through multiple continents and also be transferred on its journey, however it also likely there are delays during the server responding that cause such a high ratio.
+
+### 2.
+The city I found with the closest theoretical minimum is Sydney with 1.19, however this is likely not accurate as all google servers in this assignment performed relatively the same across multiple runs indicating they are most likely not actually going to the destination. Because of this the city I found with the closest theoretical minimum is Seoul with 1.25. This low ratio tells me that the routing infrastructure in Seoul has been greatly invested in to allow for such speeds, and this makes sense with Seoul being the primary business hub and capital of South Korea.
+
+### 3.
+Africa routes through Europe because the original submarine cables were built connecting Europe and America, and as new and better ones were built they were laid in the same paths that were already used. The connection points and infrastructure for internet in Africa is also underdeveloped meaning it is much more expensive to create an endpoint and thus less attractive for investment. To fix the data routing through Europe to arrive in Africa, new submarine cables would need to be built that connect America and Africa directly as well as new endpoints in Africa as needed for the connections.
